@@ -1,0 +1,5 @@
+venv
+.pylintrc
+.vscode
+.env
+data\chromedriver.exe
